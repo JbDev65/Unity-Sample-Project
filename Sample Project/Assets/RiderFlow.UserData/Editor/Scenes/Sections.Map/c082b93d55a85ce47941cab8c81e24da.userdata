@@ -1,0 +1,52 @@
+{
+  "GlobalObjectId_V1-2-c082b93d55a85ce47941cab8c81e24da-1876547079-0": {
+    "GameObjectId": "GlobalObjectId_V1-2-c082b93d55a85ce47941cab8c81e24da-1876547079-0",
+    "SectionColorRed": 0.5,
+    "SectionColorGreen": 1.0,
+    "SectionColorBlue": 0.5,
+    "SectionAltColorRed": 0.125,
+    "SectionAltColorGreen": 0.5,
+    "SectionAltColorBlue": 0.125,
+    "RemoveSectionDuringBuild": false
+  },
+  "GlobalObjectId_V1-2-c082b93d55a85ce47941cab8c81e24da-272051222-0": {
+    "GameObjectId": "GlobalObjectId_V1-2-c082b93d55a85ce47941cab8c81e24da-272051222-0",
+    "SectionColorRed": 1.0,
+    "SectionColorGreen": 0.8333334,
+    "SectionColorBlue": 0.5,
+    "SectionAltColorRed": 0.5,
+    "SectionAltColorGreen": 0.375,
+    "SectionAltColorBlue": 0.125,
+    "RemoveSectionDuringBuild": false
+  },
+  "GlobalObjectId_V1-2-c082b93d55a85ce47941cab8c81e24da-1867410391-0": {
+    "GameObjectId": "GlobalObjectId_V1-2-c082b93d55a85ce47941cab8c81e24da-1867410391-0",
+    "SectionColorRed": 1.0,
+    "SectionColorGreen": 0.5,
+    "SectionColorBlue": 0.5,
+    "SectionAltColorRed": 0.5,
+    "SectionAltColorGreen": 0.125,
+    "SectionAltColorBlue": 0.125,
+    "RemoveSectionDuringBuild": false
+  },
+  "GlobalObjectId_V1-2-c082b93d55a85ce47941cab8c81e24da-254657747-0": {
+    "GameObjectId": "GlobalObjectId_V1-2-c082b93d55a85ce47941cab8c81e24da-254657747-0",
+    "SectionColorRed": 1.0,
+    "SectionColorGreen": 0.5,
+    "SectionColorBlue": 0.833333254,
+    "SectionAltColorRed": 0.5,
+    "SectionAltColorGreen": 0.125,
+    "SectionAltColorBlue": 0.37499994,
+    "RemoveSectionDuringBuild": false
+  },
+  "GlobalObjectId_V1-2-c082b93d55a85ce47941cab8c81e24da-1369968139-0": {
+    "GameObjectId": "GlobalObjectId_V1-2-c082b93d55a85ce47941cab8c81e24da-1369968139-0",
+    "SectionColorRed": 0.8333333,
+    "SectionColorGreen": 1.0,
+    "SectionColorBlue": 0.5,
+    "SectionAltColorRed": 0.375,
+    "SectionAltColorGreen": 0.5,
+    "SectionAltColorBlue": 0.125,
+    "RemoveSectionDuringBuild": false
+  }
+}
