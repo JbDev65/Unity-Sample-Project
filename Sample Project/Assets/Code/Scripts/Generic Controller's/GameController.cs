@@ -26,7 +26,8 @@ public class GameController : MonoBehaviour
 
     private GameWinController _gameWinController;
 
-    
+    private ModeController _modeController;
+
     private LoadingController _loadingController;
 
     public delegate void GameStatusHandler();
@@ -138,8 +139,15 @@ public class GameController : MonoBehaviour
 
     public void Next()
     {
-        ApplicationController.SelectedLevel += 1;
-        ApplicationController.LastSelectedLevel = ApplicationController.SelectedLevel;
+        if (ApplicationController.SelectedLevel >= _modeController.currentLevelManager.Levels.Length)
+        {
+            ApplicationController.SelectedLevel = 0;
+        }
+        else
+        {
+            ApplicationController.SelectedLevel += 1;
+            ApplicationController.LastSelectedLevel = ApplicationController.SelectedLevel;
+        }
         _loadingController.display(Scenes.Gameplay);
         
     }

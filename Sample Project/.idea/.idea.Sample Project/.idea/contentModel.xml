@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\UC\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\UC\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Sample Project.-1211572797.00" t="ExcludeRecursive" />
+    <e p="E:\Projects\Unity-Sample-Project\Sample Project" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="AssetCleaner.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Code" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Generic Controller's" t="Include">
+              <e p="ApplicationController.cs" t="Include" />
+              <e p="DataController.cs" t="Include" />
+              <e p="GameController.cs" t="Include" />
+              <e p="InventoryManager.cs" t="Include" />
+              <e p="LevelManager.cs" t="Include" />
+              <e p="ModeController.cs" t="Include" />
+            </e>
+            <e p="Generic Script" t="Include">
+              <e p="ScriptLocalization.cs" t="Include" />
+            </e>
+            <e p="ItemData" t="Include">
+              <e p="GameStatus.cs" t="Include" />
+              <e p="LevelData.cs" t="Include" />
+              <e p="Scenes.cs" t="Include" />
+              <e p="TransactionType.cs" t="Include" />
+              <e p="TriggerState.cs" t="Include" />
+            </e>
+            <e p="Scene Management Sys" t="Include">
+              <e p="SceneMngmtController.cs" t="Include" />
+            </e>
+            <e p="Sound Sys" t="Include">
+              <e p="AudioLibrary.cs" t="Include" />
+              <e p="AudioPool.cs" t="Include" />
+              <e p="ButtonSound.cs" t="Include" />
+              <e p="GameplaySoundController.cs" t="Include" />
+              <e p="MenuSoundController.cs" t="Include" />
+            </e>
+            <e p="UI Sys" t="Include">
+              <e p="Gameplay Assembly" t="Include">
+                <e p="GameOverController.cs" t="Include" />
+                <e p="GameWinController.cs" t="Include" />
+                <e p="InGameController.cs" t="Include" />
+                <e p="PauseController.cs" t="Include" />
+              </e>
+              <e p="Mainmenu Assembly" t="Include">
+                <e p="ExitController.cs" t="Include" />
+                <e p="InventoryController.cs" t="Include" />
+                <e p="InventoryHandler.cs" t="Include" />
+                <e p="LevelMenuController.cs" t="Include" />
+                <e p="LoadingController.cs" t="Include" />
+                <e p="MainMenuController.cs" t="Include" />
+                <e p="MenuController.cs" t="Include" />
+                <e p="ModeSelectController.cs" t="Include" />
+                <e p="RateUsController.cs" t="Include" />
+                <e p="SettingsController.cs" t="Include" />
+                <e p="SharedMenuController.cs" t="Include" />
+                <e p="ShopController.cs" t="Include" />
+                <e p="SplashLoadingController.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Editor" t="Include">
+          <e p="SetAnchors.cs" t="Include" />
+          <e p="URPPostProcessStripper.cs" t="Include" />
+        </e>
+        <e p="Extensions" t="Include">
+          <e p="Asset Cleaner" t="Include">
+            <e p="AssetCleaner.asmdef" t="Include" />
+            <e p="com.leopotam.ecs" t="Include">
+              <e p="src" t="Include">
+                <e p="EcsComponent.cs" t="Include" />
+                <e p="EcsEntity.cs" t="Include" />
+                <e p="EcsFilter.cs" t="Include" />
+                <e p="EcsHelpers.cs" t="Include" />
+                <e p="EcsSystem.cs" t="Include" />
+                <e p="EcsWorld.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Data" t="Include">
+              <e p="AufSerializableData.cs" t="Include" />
+              <e p="CleanerStyleAsset.cs" t="Include" />
+              <e p="FindModeEnum.cs" t="Include" />
+              <e p="Globals" t="Include">
+                <e p="BacklinkStore.cs" t="Include" />
+                <e p="Config.cs" t="Include" />
+                <e p="PersistentUndoRedoState.cs" t="Include" />
+                <e p="UndoRedoState.cs" t="Include" />
+                <e p="WindowData.cs" t="Include" />
+              </e>
+              <e p="InSceneResult.cs" t="Include" />
+              <e p="PrevClick.cs" t="Include" />
+              <e p="Result.cs" t="Include" />
+              <e p="SceneDetails.cs" t="Include" />
+              <e p="SceneResult.cs" t="Include" />
+              <e p="SearchArg.cs" t="Include" />
+              <e p="SearchResultGui.cs" t="Include" />
+              <e p="SelectionChanged.cs" t="Include" />
+              <e p="SelectionEntry.cs" t="Include" />
+            </e>
+            <e p="IgnoreTypes.cs" t="Include" />
+            <e p="README.txt" t="Include" />
+            <e p="Systems" t="Include">
+              <e p="External" t="Include">
+                <e p="AufWindow.cs" t="Include" />
+                <e p="ProcessAllAssets.cs" t="Include" />
+                <e p="ProjectViewGui.cs" t="Include" />
+              </e>
+              <e p="SysProcessSearch.cs" t="Include" />
+              <e p="SysRepaintWindow.cs" t="Include" />
+              <e p="SysSceneCleanup.cs" t="Include" />
+              <e p="SysUndoRedoSelection.cs" t="Include" />
+              <e p="SysWindowGui.cs" t="Include" />
+            </e>
+            <e p="Third-Party Notices.txt" t="Include" />
+            <e p="Utils" t="Include">
+              <e p="Asr.cs" t="Include" />
+              <e p="AufCtx.cs" t="Include" />
+              <e p="CommonUtils.cs" t="Include" />
+              <e p="DirtyUtils.cs" t="Include" />
+              <e p="EcsUtils.cs" t="Include" />
+              <e p="Ext.cs" t="Include" />
+              <e p="Globals.cs" t="Include" />
+              <e p="Option.cs" t="Include" />
+              <e p="PersistenceUtils.cs" t="Include" />
+              <e p="Pool.cs" t="Include" />
+              <e p="SearchUtils.cs" t="Include" />
+            </e>
+          </e>
+          <e p="BuildReport" t="Include">
+            <e p="CustomBuildScriptExample.txt" t="Include" />
+            <e p="license.txt" t="Include" />
+            <e p="README.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="BRT_VersionInfo.cs" t="Include" />
+                <e p="FuzzyString" t="Include">
+                  <e p="ApproximatelyEquals.cs" t="Include" />
+                  <e p="FuzzyStringComparisonOptions.cs" t="Include" />
+                  <e p="FuzzyStringComparisonTolerance.cs" t="Include" />
+                  <e p="FuzzyStringLicense.txt" t="Include" />
+                  <e p="HammingDistance.cs" t="Include" />
+                  <e p="JaccardDistance.cs" t="Include" />
+                  <e p="JaroDistance.cs" t="Include" />
+                  <e p="JaroWinklerDistance.cs" t="Include" />
+                  <e p="LevenshteinDistance.cs" t="Include" />
+                  <e p="LongestCommonSubsequence.cs" t="Include" />
+                  <e p="LongestCommonSubstring.cs" t="Include" />
+                  <e p="Operations.cs" t="Include" />
+                  <e p="OverlapCoefficient.cs" t="Include" />
+                  <e p="RatcliffObershelpSimilarity.cs" t="Include" />
+                  <e p="SorensenDiceDistance.cs" t="Include" />
+                  <e p="TanimotoCoefficient.cs" t="Include" />
+                </e>
+                <e p="MiniJSON" t="Include">
+                  <e p="MiniJSON.cs" t="Include" />
+                </e>
+                <e p="Options" t="Include">
+                  <e p="BRT_FileFilters.cs" t="Include" />
+                  <e p="BRT_FiltersUsed.cs" t="Include" />
+                  <e p="BRT_Options.cs" t="Include" />
+                </e>
+                <e p="ReportData" t="Include">
+                  <e p="BRT_AssetDependencies.cs" t="Include" />
+                  <e p="BRT_AssetList.cs" t="Include" />
+                  <e p="BRT_BuildInfo.cs" t="Include" />
+                  <e p="BRT_BuildInfo_Commands.cs" t="Include" />
+                  <e p="BRT_BuildPlatformType.cs" t="Include" />
+                  <e p="BRT_BuildSettingsCategoryType.cs" t="Include" />
+                  <e p="BRT_IDataFile.cs" t="Include" />
+                  <e p="BRT_SizePart.cs" t="Include" />
+                  <e p="BRT_TextureData.cs" t="Include" />
+                  <e p="BRT_UnityBuildReport.cs" t="Include" />
+                  <e p="BRT_UnityBuildSettings.cs" t="Include" />
+                </e>
+                <e p="ReportGeneration" t="Include">
+                  <e p="BRT_AssetDependencyGenerator.cs" t="Include" />
+                  <e p="BRT_ReportGenerator.cs" t="Include" />
+                  <e p="BRT_ReportGenerator_PublicAPI.cs" t="Include" />
+                  <e p="BRT_TextureDataGenerator.cs" t="Include" />
+                  <e p="BRT_UnityBuildSettingsUtility.cs" t="Include" />
+                </e>
+                <e p="Utility" t="Include">
+                  <e p="BRT_AssetList_Sort.cs" t="Include" />
+                  <e p="BRT_AssetList_Sort_Texture.cs" t="Include" />
+                  <e p="BRT_LibCacheUtil.cs" t="Include" />
+                  <e p="BRT_Util.cs" t="Include" />
+                  <e p="DldUtil_BackwardFileReader.cs" t="Include" />
+                  <e p="DldUtil_BigFileReader.cs" t="Include" />
+                  <e p="DldUtil_GetRspDefines.cs" t="Include" />
+                  <e p="DldUtil_TraverseDirectory.cs" t="Include" />
+                  <e p="DldUtil_UnityVersion.cs" t="Include" />
+                  <e p="ImageDimensions.cs" t="Include" />
+                </e>
+                <e p="Window" t="Include">
+                  <e p="BRT_BuildReportWindow.cs" t="Include" />
+                  <e p="BRT_WindowLabels.cs" t="Include" />
+                  <e p="BRT_WindowSettings.cs" t="Include" />
+                  <e p="BRT_WindowUtility.cs" t="Include" />
+                  <e p="Screen" t="Include">
+                    <e p="BRT_AssetListScreen.cs" t="Include" />
+                    <e p="BRT_AssetListScreen_AssetUsage.cs" t="Include" />
+                    <e p="BRT_AssetListScreen_Delete.cs" t="Include" />
+                    <e p="BRT_AssetListScreen_Search.cs" t="Include" />
+                    <e p="BRT_BaseScreen.cs" t="Include" />
+                    <e p="BRT_BuildSettingsScreen.cs" t="Include" />
+                    <e p="BRT_BuildStepsScreen.cs" t="Include" />
+                    <e p="BRT_HelpScreen.cs" t="Include" />
+                    <e p="BRT_OptionsScreen.cs" t="Include" />
+                    <e p="BRT_OverviewScreen.cs" t="Include" />
+                    <e p="BRT_SizeStatsScreen.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="VERSION.txt" t="Include" />
+          </e>
+          <e p="TextMesh Pro" t="Include">
+            <e p="Fonts" t="Include">
+              <e p="LiberationSans - OFL.txt" t="Include" />
+            </e>
+            <e p="Resources" t="Include">
+              <e p="LineBreaking Following Characters.txt" t="Include" />
+              <e p="LineBreaking Leading Characters.txt" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF SSD.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Mobile.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+            <e p="Sprites" t="Include">
+              <e p="EmojiOne Attribution.txt" t="Include" />
+              <e p="EmojiOne.json" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Demigiant" t="Include">
+            <e p="DemiLib" t="Include">
+              <e p="Core" t="Include">
+                <e p="DemiLib.xml" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="DemiEditor.xml" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="DOTween" t="Include">
+              <e p="Modules" t="Include">
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModuleEPOOutline.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
+              <e p="README.txt" t="Include" />
+            </e>
+            <e p="DOTweenPro" t="Include">
+              <e p="DOTweenAnimation.cs" t="Include" />
+              <e p="DOTweenDeAudio.cs" t="Include" />
+              <e p="DOTweenDeUnityExtended.cs" t="Include" />
+              <e p="DOTweenProShortcuts.cs" t="Include" />
+              <e p="DOTweenTextMeshPro.cs" t="Include" />
+              <e p="DOTweenTk2d.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="DOTweenAnimationInspector.cs" t="Include" />
+                <e p="DOTweenPreviewManager.cs" t="Include" />
+              </e>
+              <e p="README.txt" t="Include" />
+            </e>
+            <e p="readme_DOTweenPro.txt" t="Include" />
+          </e>
+          <e p="Editor" t="Include">
+            <e p="JetBrains.RiderFlow" t="Include">
+              <e p="2019.4" t="Include">
+                <e p="JetBrains.Frontend.2019.4.asmdef" t="Include" />
+              </e>
+              <e p="2020.2" t="Include">
+                <e p="JetBrains.Frontend.2020.2.asmdef" t="Include" />
+              </e>
+              <e p="2021.2" t="Include">
+                <e p="EnhancedHierarchyIntegration" t="Include">
+                  <e p="OpenedPrefabPreviewTrackerIntegration.cs" t="Include" />
+                </e>
+                <e p="EntryPoint.cs" t="Include" />
+                <e p="JetBrains.Frontend.2021.2.asmdef" t="Include" />
+                <e p="ProgressManager.cs" t="Include" />
+                <e p="RecentFilesCache.cs" t="Include" />
+                <e p="SceneIntegration" t="Include">
+                  <e p="NewToolbarCompositeAltActionProvider.cs" t="Include" />
+                  <e p="RiderFlowEditorToolbarButton.cs" t="Include" />
+                  <e p="RiderFlowEditorToolbarToggle.cs" t="Include" />
+                  <e p="RiderFlowSceneToolbarRoot.cs" t="Include" />
+                  <e p="RiderFlowToolbarConstants.cs" t="Include" />
+                  <e p="SceneOccurrenceEffectToggle.cs" t="Include" />
+                  <e p="SceneOccurrenceToolExtensions.cs" t="Include" />
+                  <e p="SceneSearchToggle.cs" t="Include" />
+                  <e p="SceneToolbar.cs" t="Include" />
+                  <e p="SceneViewToolsExtensions.cs" t="Include" />
+                  <e p="ShowUsagesExplorerButton.cs" t="Include" />
+                  <e p="VisualElementToolbarDisplay.cs" t="Include" />
+                </e>
+                <e p="SearchWindowSettings.cs" t="Include" />
+              </e>
+              <e p="build.txt" t="Include" />
+              <e p="EULA.txt" t="Include" />
+              <e p="InstallationData" t="Include">
+                <e p="LogConfiguration" t="Include">
+                  <e p="backend-log.xml" t="Include" />
+                  <e p="frontend-log.xml" t="Include" />
+                </e>
+                <e p="Resources" t="Include">
+                  <e p="HDRPSceneHighlighting.txt" t="Include" />
+                  <e p="ReEditor" t="Include">
+                    <e p="RiderDark.xml" t="Include" />
+                    <e p="RiderLight.xml" t="Include" />
+                  </e>
+                  <e p="RiderFlowResourceMarker.txt" t="Include" />
+                  <e p="SceneHighlighting.shader" t="Include" />
+                  <e p="URPSceneHighlighting.txt" t="Include" />
+                </e>
+              </e>
+              <e p="package.json" t="Include" />
+            </e>
+          </e>
+          <e p="IngameDebugConsole" t="Include">
+            <e p="Android" t="Include">
+              <e p="DebugLogLogcatListener.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="DebugLogManagerEditor.cs" t="Include" />
+              <e p="IngameDebugConsole.Editor.asmdef" t="Include" />
+            </e>
+            <e p="IngameDebugConsole.Runtime.asmdef" t="Include" />
+            <e p="README.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="CircularBuffer.cs" t="Include" />
+              <e p="Commands" t="Include">
+                <e p="PlayerPrefsCommands.cs" t="Include" />
+                <e p="SceneCommands.cs" t="Include" />
+                <e p="TimeCommands.cs" t="Include" />
+              </e>
+              <e p="ConsoleMethodAttribute.cs" t="Include" />
+              <e p="DebugLogConsole.cs" t="Include" />
+              <e p="DebugLogEntry.cs" t="Include" />
+              <e p="DebugLogIndexList.cs" t="Include" />
+              <e p="DebugLogItem.cs" t="Include" />
+              <e p="DebugLogItemCopyWebGL.cs" t="Include" />
+              <e p="DebugLogManager.cs" t="Include" />
+              <e p="DebugLogPopup.cs" t="Include" />
+              <e p="DebugLogRecycledListView.cs" t="Include" />
+              <e p="DebugLogResizeListener.cs" t="Include" />
+              <e p="DebugsOnScrollListener.cs" t="Include" />
+            </e>
+          </e>
+          <e p="RainbowAssets" t="Include">
+            <e p="!Core" t="Include">
+              <e p="NOTICES.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="IngameDebugConsole.Editor.csproj" t="IncludeRecursive" />
+      <e p="IngameDebugConsole.Runtime.csproj" t="IncludeRecursive" />
+      <e p="JetBrains.Frontend.2019.4.csproj" t="IncludeRecursive" />
+      <e p="JetBrains.Frontend.2020.2.csproj" t="IncludeRecursive" />
+      <e p="JetBrains.Frontend.2021.2.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Sample Project.sln" t="IncludeFlat" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
